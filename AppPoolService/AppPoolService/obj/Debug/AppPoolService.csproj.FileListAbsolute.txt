@@ -1,0 +1,8 @@
+C:\inetpub\wwwroot\AppPoolService\AppPoolService\bin\Debug\AppPoolService.exe.config
+C:\inetpub\wwwroot\AppPoolService\AppPoolService\bin\Debug\AppPoolService.exe
+C:\inetpub\wwwroot\AppPoolService\AppPoolService\bin\Debug\AppPoolService.pdb
+C:\inetpub\wwwroot\AppPoolService\AppPoolService\obj\Debug\AppPoolService.ProjectInstaller.resources
+C:\inetpub\wwwroot\AppPoolService\AppPoolService\obj\Debug\AppPoolService.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\AppPoolService\AppPoolService\obj\Debug\AppPoolService.exe
+C:\inetpub\wwwroot\AppPoolService\AppPoolService\obj\Debug\AppPoolService.pdb
+C:\inetpub\wwwroot\AppPoolService\AppPoolService\bin\Debug\Microsoft.Web.Administration.dll

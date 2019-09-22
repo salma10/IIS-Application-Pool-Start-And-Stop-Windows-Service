@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\inetpub\wwwroot\AppPoolService\AppPoolService\bin\Debug\AppPoolService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\inetpub\wwwroot\AppPoolService\AppPoolService\bin\Debug\AppPoolService.InstallLog
+   assemblypath = C:\inetpub\wwwroot\AppPoolService\AppPoolService\bin\Debug\AppPoolService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\inetpub\wwwroot\AppPoolService\AppPoolService\bin\Debug\AppPoolService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\inetpub\wwwroot\AppPoolService\AppPoolService\bin\Debug\AppPoolService.InstallLog
+   assemblypath = C:\inetpub\wwwroot\AppPoolService\AppPoolService\bin\Debug\AppPoolService.exe
